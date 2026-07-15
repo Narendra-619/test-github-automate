@@ -77,6 +77,6 @@ variable "min_size" {
 }
 
 variable "s3_bucket_name" {
-  default="github-test"
-  type=string
+  default = "github-test"
+  type    = string
 } 
